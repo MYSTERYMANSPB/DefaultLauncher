@@ -16,9 +16,9 @@ namespace SAMP_DefaultLauncher
     public partial class MainScreen : Form
     {
         string siteURL = "www.avantgarde-rp.ru";
-        string serverSAMPIP = "31.31.199.48:7777";
-        string serverCRMPIP = "31.31.199.48:8904";
-        string serverCRMPSERGIP = "31.31.199.48:8905";
+        string serverSAMPIP = "31.31.199.48:1488";
+        string serverCRMPIP = "31.31.199.48:1489";
+        string serverCRMPSERGIP = "31.31.199.48:1490";
         string pathCRMP = null;
 
         public MainScreen()
