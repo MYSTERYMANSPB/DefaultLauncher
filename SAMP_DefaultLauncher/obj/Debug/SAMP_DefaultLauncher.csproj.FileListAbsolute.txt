@@ -1,10 +1,1 @@
-C:\Users\MAX\Desktop\gameCream\SAMP_DefaultLauncher\SAMP_DefaultLauncher\bin\Debug\SAMP_DefaultLauncher.exe.config
-C:\Users\MAX\Desktop\gameCream\SAMP_DefaultLauncher\SAMP_DefaultLauncher\bin\Debug\SAMP_DefaultLauncher.exe
-C:\Users\MAX\Desktop\gameCream\SAMP_DefaultLauncher\SAMP_DefaultLauncher\bin\Debug\SAMP_DefaultLauncher.pdb
-C:\Users\MAX\Desktop\gameCream\SAMP_DefaultLauncher\SAMP_DefaultLauncher\obj\Debug\SAMP_DefaultLauncher.csprojResolveAssemblyReference.cache
-C:\Users\MAX\Desktop\gameCream\SAMP_DefaultLauncher\SAMP_DefaultLauncher\obj\Debug\SAMP_DefaultLauncher.MainScreen.resources
-C:\Users\MAX\Desktop\gameCream\SAMP_DefaultLauncher\SAMP_DefaultLauncher\obj\Debug\SAMP_DefaultLauncher.Properties.Resources.resources
-C:\Users\MAX\Desktop\gameCream\SAMP_DefaultLauncher\SAMP_DefaultLauncher\obj\Debug\SAMP_DefaultLauncher.csproj.GenerateResource.cache
-C:\Users\MAX\Desktop\gameCream\SAMP_DefaultLauncher\SAMP_DefaultLauncher\obj\Debug\SAMP_DefaultLauncher.csproj.CoreCompileInputs.cache
-C:\Users\MAX\Desktop\gameCream\SAMP_DefaultLauncher\SAMP_DefaultLauncher\obj\Debug\SAMP_DefaultLauncher.exe
-C:\Users\MAX\Desktop\gameCream\SAMP_DefaultLauncher\SAMP_DefaultLauncher\obj\Debug\SAMP_DefaultLauncher.pdb
+C:\Users\Desu\Source\Repos\DefaultLauncher\SAMP_DefaultLauncher\bin\Debug\SAMP_DefaultLauncher.exe.config
